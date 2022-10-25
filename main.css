@@ -1,0 +1,33 @@
+.table{
+    background-color: rgb(253, 253, 253);
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9cm;
+    min-width: 900px;
+}
+
+.bnr{
+    background-color: rgb(44, 151, 190);
+    height: 2cm;
+    font-size: 1.5cm;
+}
+
+.T2{
+    float: left;
+    width: 10cm;
+    height: 10cm;
+    background-color: rgb(92, 92, 146);
+}
+
+.T1{
+    width: fit-content;
+}
+
+.principal{
+    columns: 2;
+    column-width: auto;
+}
+
+.Breaking_Bad{
+    background-color: aqua;
+}
